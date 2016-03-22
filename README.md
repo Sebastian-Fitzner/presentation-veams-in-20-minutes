@@ -1,10 +1,10 @@
-## PG Methodology Slides | version="1.0.0-11"
+## Veams presentation in german
 
 ---------------------------------------------------
 
 ## Overview
 
-Slides for PG Methodology in german. The presentation is still in progress.
+Slides for Veams in german. The presentation is still in progress.
 
 Translation will be released soon. 
 
